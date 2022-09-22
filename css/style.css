@@ -6,7 +6,7 @@ html {
 body {
   color: rgba(0,0,0,0.9);
   font-family: 'PingHei', 'PingFang SC', Helvetica Neue, 'Work Sans', 'Hiragino Sans GB', 'Microsoft YaHei', SimSun, sans-serif;
-  font-size: 15px;
+  font-size: 13px;
   width: 100%;
   margin: 0 auto 30px auto;
   background-color: #fff;
@@ -14,7 +14,7 @@ body {
 p {
   line-height: 1.9em;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 13px;
 }
 a {
   text-decoration: none;
@@ -32,6 +32,9 @@ a:visited {
 a:hover,
 a:active {
   color: #4786d6;
+}
+li {
+  line-height: 1.9em;
 }
 /* basic styles ends */
 /* animation starts */
